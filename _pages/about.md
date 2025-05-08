@@ -19,7 +19,7 @@ redirect_from:
 
 Hello!
 
-I am a Master's student in Electronic Information at the School of Cyberspace Security, University of Science and Technology of China (USTC). Currently, I am conducting research under the supervision of Associate Professor <a href='http://home.ustc.edu.cn/~chenkj/' Kejiang Chen></a>  at the Anhui Province Key Laboratory of Digital Security, focusing on the fields of provably secure steganography, diffusion models, and large language models (LLMs). I graduated from the School of Cyberspace Security, USTC, majoring in Information Security with a Bachelor's degree in Engineering.
+I am a Master's student in Electronic Information at the School of Cyberspace Security, University of Science and Technology of China (USTC). Currently, I am conducting research under the supervision of Associate Professor <a href='http://home.ustc.edu.cn/~chenkj/'> Kejiang Chen </a>  at the Anhui Province Key Laboratory of Digital Security, focusing on the fields of provably secure steganography, diffusion models, and large language models (LLMs). I graduated from the School of Cyberspace Security, USTC, majoring in Information Security with a Bachelor's degree in Engineering.
 
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
